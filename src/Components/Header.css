@@ -1,0 +1,16 @@
+.nav-link{
+    cursor: pointer;
+    color: yellow;
+}
+.nav-item .nav-link{
+    color: yellow;
+    font-weight: bold;
+}
+.my-header{
+    background-image: url("https://img.freepik.com/free-photo/old-wall-texture-cement-black-red-background-abstract-dark-color-design-are-light-with-white-gradient-background_1258-103478.jpg?uid=R154443936&ga=GA1.1.165295141.1730093007");
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    opacity: 0.7;
+    background-size: cover;
+}
